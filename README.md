@@ -59,7 +59,7 @@ Homepage:
 ![Homepage](static/TSA-Page1.png)
 
 Processing: (performing API calls and analyzing the received tweets)
-![Processing](static/TSA-Page1.png)
+![Processing](static/TSA-Page2.png)
 
 Results: (In terms of polarity and subjectivity)
-![Result](static/TSA-Page1.png)
+![Result](static/TSA-Page3.png)
