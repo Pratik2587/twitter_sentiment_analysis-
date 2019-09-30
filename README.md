@@ -56,10 +56,10 @@ Refer https://docs.inboundnow.com/guide/create-twitter-application/ to understan
 
 ## Output
 Homepage:
-![Homepage](TSA-Page1.png)
+![Homepage](static/TSA-Page1.png)
 
 Processing: (performing API calls and analyzing the received tweets)
-![Processing](TSA-Page2.png)
+![Processing](static/TSA-Page1.png)
 
 Results: (In terms of polarity and subjectivity)
-![Result](TSA-Page3.png)
+![Result](static/TSA-Page1.png)
